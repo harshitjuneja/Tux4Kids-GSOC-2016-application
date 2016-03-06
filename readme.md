@@ -94,13 +94,17 @@ Project(Tux Mind Math)
 
 >I plan to have games divided under 4 categories : addition, subtraction, multiplication and division. Each category will have some specific tricks that work on a special set of numbers.
  
-> example : Multiplication by 8  
->                 QUESTION : 522*8
->                 as 8 = 10-2
->                     522*10 = 5220
->                     522*2=1044
->           Hence 522*8 = (522*10)-(522*2)
+> example :     Multiplication by 8  
+
+>               QUESTION : 522*8=?
+>
+>------------------------------------------------------------------------------
+>        STEP 1:            as 8 = 10 - 2
+>        STEP 2:            522 * 10 = 5220
+>        STEP 3:            522 * 2= 1044
+>        STEP 4:      Hence 522 * 8 = (522 * 10) - (522 * 2)
 >                                = 4176
+>---------------------------------------------------------------------------------
 >                                
 > This trick is only for multiplication with  8. Likewise I plan to add tricks under different categories after discussion with my mentor. The number and kind of tricks added for GSOC this summer for each category shall be finalized before the actual coding period.
 
@@ -110,7 +114,7 @@ Project(Tux Mind Math)
 >:-------------------|:-----------------------|:---------------------------------------
 > **1-2** | ( 23 - 4 May)         | Game 1 on Addition                        |
 > --------------------------------------------------------------------------------------|
->  **3-4   ** | (5 - 18 May)          | Game 2 on Subtraction                    |
+>  **3-4** | (5 - 18 May)          | Game 2 on Subtraction                    |
 >  --------------------------------------------------------------------------------------|
 >  **5-6** | (19 May - 2 June)  | Game 3 on Multiplication                 |
 >  --------------------------------------------------------------------------------------|
@@ -128,9 +132,9 @@ Project(Tux Mind Math)
 >  :-----------|---------------------------------------|------------------------------------------------------------ |                                                                           
 > **1-2**     | (1-13 July)                                   |  Add more tricks to multiplication & division                                             |
 > -----------------------------------------------------------------------------------------------------------------|
-> **3-4 **  | (14-26 July)                                   |Add more tricks to Addition and subtraction                                            |
+> **3-4**  | (14-26 July)                                   |Add more tricks to Addition and subtraction                                            |
 > ----------------------------------------------------------------------------------------------------------------- |
-> **5-6 **  | (26July- 7August)                    |Prepare and deploy code on a website, see it working.                                      |
+> **5-6**  | (26July- 7August)                    |Prepare and deploy code on a website, see it working.                                      |
 > ------------------------------------------------------------------------------------------------------------------|
-> **7,8 **  |    (8August-23 August)          |Tidy up code, improve documentation & prepare for final submission. |
+> **7-8**  |    (8August-23 August)          |Tidy up code, improve documentation & prepare for final submission. |
 >-------------------------------------------------------------------------------------------------------------------|
