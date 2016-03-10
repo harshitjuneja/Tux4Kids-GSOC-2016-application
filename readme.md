@@ -30,8 +30,8 @@ Coding Skills
 > - Desired knowledge for TuxMindMath:
 > >1. Game Engine : Phaser
 > >2. Scripting Language : JavaScript
-> >3. Design : CSS, Bootstrap, Material Design(beginner).
->>4. Content : Vedic mathematics tricks (familiar)
+> >3. Design : CSS, Bootstrap, Material Design.
+>>4. Content : Vedic mathematics tricks (familiar).
 
 ----------
 
@@ -40,10 +40,10 @@ Tux4Kids & Me
 
 > **Contribution**
 
-> - Submitted a new game, Wall-Roll (it's in testing) under memory category of Tux4Me.
->   [Contributors](http://tux4me.azurewebsites.net/)
->   [Pull Request for WallRoll](https://github.com/Vigneshsekar/Tux4ME/pull/21/commits)
-> Requirements document for WallRoll :  [Project-Wall-Roll](https://docs.google.com/document/d/1aPtKxgltMCagPaFgE-3HVWXsgy98D16yvFN2hCqxeAg/edit?usp=sharing)
+>   Submitted a new game, Wall-Roll (it's in testing) under memory category of Tux4Me.
+> - [Contributors](http://tux4me.azurewebsites.net/)
+> - [Pull Request for WallRoll](https://github.com/Vigneshsekar/Tux4ME/pull/21/commits)
+> - Requirements document for WallRoll :  [Project-Wall-Roll](https://docs.google.com/document/d/1aPtKxgltMCagPaFgE-3HVWXsgy98D16yvFN2hCqxeAg/edit?usp=sharing)
 
 ----------
 
@@ -51,18 +51,20 @@ Tux4Kids & Me
 Project(Tux Mind Math)
 -------------
 
->- **Project Goals :**
-> 1.  Enable kids to calculate faster (Step-wise tricks). 
-> 2.  Tell them how quick they actually are (Cumulative index).
-> 3. Make learning fun and motivating (Scoring and Level based games).
+> - **Project Goals :**
+>
+>1.  Enable kids to calculate faster (Step-wise tricks). 
+>2.  Tell them how quick they actually are (Cumulative index).
+>3. Make learning fun and motivating (Scoring and Level based games).
 
 ----------
 
 
 > 
 >- **Why Tux Mind Math ?** 
+>
 >1. I will get to try more animations and effects and leverage the full potential of Phaser along with HTML5.
->2. I believe making easily understandable and entertaining games is the perfect way to supplement boring regular classwork. When it's a game we tend to learn quickly. 
+>2. I believe making easily understandable and entertaining games is the perfect way to supplement boring regular classwork. When it's a game kids learn quickly. 
 
 ----------
 
@@ -99,10 +101,10 @@ Project(Tux Mind Math)
 >               QUESTION : 522*8=?
 >
 >------------------------------------------------------------------------------
->        STEP 1:            as 8 = 10 - 2
->        STEP 2:            522 * 10 = 5220
->        STEP 3:            522 * 2= 1044
->        STEP 4:      Hence 522 * 8 = (522 * 10) - (522 * 2)
+>        
+>        STEP 1:           522 * 10 = 5220 (Just add a zero at the end)
+>        STEP 2            522 * 2= 1044   (Multiplication by 2)
+>        STEP 3      Hence 522 * 8 = 5220-1044 (Subtraction)
 >                                = 4176
 >---------------------------------------------------------------------------------
 >                                
