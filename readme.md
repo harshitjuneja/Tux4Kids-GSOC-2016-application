@@ -90,15 +90,16 @@ Project(Tux Mind Math)
 
 ----------
 > 
->- **Deliverables** 
->####*Before the official working period*:
->  Although I will be able to do little until classes end, I would have no problems starting with the project "early". I have already been following the tux4kids discussion group for some time and have looked at some of the code base, and this will be a great time for me to even better familiarize myself with the community. I could easily start coding the actual project during this period. This would allow me to potentially finish more by the end of the summer. 
+>- **Deliverables**
+>
+> ####*Before the official working period*:
+>   Although I will be able to do little until classes end, I would have no problems starting with the project "early". I have already been following the tux4kids discussion group for some time and have looked at some of the code base, and this will be a great time for me to even better familiarize myself with the community. I could easily start coding the actual project during this period. This would allow me to potentially finish more by the end of the summer. 
 
->I plan to have games divided under 4 categories : addition, subtraction, multiplication and division. Each category will have some specific tricks that work on a special set of numbers.
+> I plan to have games divided under 4 categories : addition, subtraction, multiplication and division. Each category will have some specific tricks that work on a special set of numbers.
  
-> example :     Multiplication by 8  
+>  example :     Multiplication by 8  
 
->               QUESTION : 522*8=?
+>                QUESTION : 522*8=?
 >
 >------------------------------------------------------------------------------
 >        
@@ -108,7 +109,7 @@ Project(Tux Mind Math)
 >                                = 4176
 >---------------------------------------------------------------------------------
 >                                
-> This trick is only for multiplication with  8. Likewise I plan to add tricks under different categories after discussion with my mentor. The number and kind of tricks added for GSOC this summer for each category shall be finalized before the actual coding period.
+>  This trick is only for multiplication with  8. Likewise I plan to add tricks under different categories after discussion with my mentor. The number and kind of tricks added for GSOC this summer for each category shall be finalized before the actual coding period.
 
 > 
 > ####*Prior to Mid-term Evaluation period* 
